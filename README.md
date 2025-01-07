@@ -1,3 +1,4 @@
+![logo](https://github.com/Shivapriyajarupula/Shivapriyajarupula/blob/main/1735128739261.jpg)
 <h1 align="center">Hi 👋, I'm Shivapriya</h1>
 <h3 align="center">A passionate Senior Project analyst from India</h3>
 
