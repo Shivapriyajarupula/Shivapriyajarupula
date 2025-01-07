@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Shivapriya</h1>
 <h3 align="center">A passionate Senior Project analyst from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/l3mZsXph9EywxtxAs/source.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivapriyajarupula&label=Profile%20views&color=0e75b6&style=flat" alt="shivapriyajarupula" /> </p>
 
 - 🔭 I’m currently working on **Power BI**
 
-- 🌱 I’m currently learning **Scrum master, Project Management**
+- 🌱 I’m currently learning **Scrum master, Project Management, Jira, Trello**
 
 - 👯 I’m looking to collaborate on **Analytics**
 
